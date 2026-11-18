@@ -1,0 +1,2 @@
+# AI-Enabled-Mine-Subsidence-Monitoring-Early-Warning-System
+An AI-powered, low-cost monitoring system designed to detect abnormal ground behaviour and support early identification of potential land subsidence in underground coal mining regions.  The proposed solution combines distributed IoT sensor networks, machine learning, mathematical modelling, and real-time data visualization to improve mining safety
